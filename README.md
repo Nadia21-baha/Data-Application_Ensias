@@ -3,7 +3,8 @@ Module: Data Application
 
 Student: Nadia Baha
 
-Description
+Description:
+
  The goal of this app is to exercice all the methods that we study dyring this module (scraping data and using streamlit to visualize and manipulate data) 
  so i build an interactive dashboard that demonstrates data processing, visualization, and analysis capabilities using Python and Streamlit.
 
